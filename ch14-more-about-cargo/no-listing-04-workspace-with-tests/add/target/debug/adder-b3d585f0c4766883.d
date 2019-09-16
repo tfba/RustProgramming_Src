@@ -1,0 +1,1 @@
+/Users/carolnichols/rust/book/examples/ch14-more-about-cargo/no-listing-04-workspace-with-tests/add/target/debug/adder-b3d585f0c4766883.dSYM: /Users/carolnichols/rust/book/examples/ch14-more-about-cargo/no-listing-04-workspace-with-tests/add/add-one/src/lib.rs /Users/carolnichols/rust/book/examples/ch14-more-about-cargo/no-listing-04-workspace-with-tests/add/adder/src/main.rs

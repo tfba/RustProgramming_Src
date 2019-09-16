@@ -1,0 +1,1 @@
+/Users/carolnichols/rust/book/examples/ch19-advanced-features/listing-19-31/hello_macro/target/debug/hello_macro.dSYM: /Users/carolnichols/rust/book/examples/ch19-advanced-features/listing-19-31/hello_macro/src/lib.rs /Users/carolnichols/rust/book/examples/ch19-advanced-features/listing-19-31/hello_macro/src/main.rs

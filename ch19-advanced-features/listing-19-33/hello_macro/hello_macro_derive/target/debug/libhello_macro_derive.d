@@ -1,0 +1,1 @@
+/Users/carolnichols/rust/book/examples/ch19-advanced-features/listing-19-33/hello_macro/hello_macro_derive/target/debug/libhello_macro_derive.dylib: /Users/carolnichols/rust/book/examples/ch19-advanced-features/listing-19-33/hello_macro/hello_macro_derive/src/lib.rs

@@ -1,0 +1,1 @@
+/Users/carolnichols/rust/book/examples/ch14-more-about-cargo/no-listing-01-workspace-with-adder-crate/add/target/debug/adder.dSYM: /Users/carolnichols/rust/book/examples/ch14-more-about-cargo/no-listing-01-workspace-with-adder-crate/add/adder/src/main.rs

@@ -1,0 +1,1 @@
+/Users/carolnichols/rust/book/examples/ch14-more-about-cargo/no-listing-03-workspace-with-external-dependency/add/target/debug/libadd_one.rlib: /Users/carolnichols/rust/book/examples/ch14-more-about-cargo/no-listing-03-workspace-with-external-dependency/add/add-one/src/lib.rs

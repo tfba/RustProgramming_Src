@@ -1,0 +1,1 @@
+/Users/carolnichols/rust/book/examples/ch14-more-about-cargo/listing-14-07/add/target/debug/libadd_one.rlib: /Users/carolnichols/rust/book/examples/ch14-more-about-cargo/listing-14-07/add/add-one/src/lib.rs
